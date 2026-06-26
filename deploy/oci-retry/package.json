@@ -1,0 +1,14 @@
+{
+  "name": "oci-arm-retry",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node oci-arm-retry.js"
+  },
+  "dependencies": {
+    "oci-common": "^2.99.0",
+    "oci-core": "^2.99.0",
+    "oci-identity": "^2.99.0",
+    "dotenv": "^16.4.5"
+  }
+}
